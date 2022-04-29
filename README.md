@@ -1,2 +1,2 @@
 # AndroidDockerApplication
-This is an Android application deployed in Docker. 
+This is an Android application deployed in Docker. This Android Application will make a call to a local Web Application server and the local Web Application server will make a call to the third party API to retrieve the brewery information. The local web application will return the result to Android Application and the Android Application will display the result to users. 
